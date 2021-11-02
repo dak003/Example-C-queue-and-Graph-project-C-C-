@@ -1,0 +1,146 @@
+// This is the output of a project where Lqueue was used
+// to store Racecar objects.
+// The Lqueue was updated to store the racecars in order
+// in a race.
+// Each lap the Linked list was sorted by the racecars speed
+
+What type of vehicle would you like to race?
+1. Cars
+2. Trucks
+3. Formula 1
+4. Exit
+How many racers would you like in the race?
+Pole Positions
+Formula Fletcher (#6) going 220MPH
+Formula Baird (#58) going 220MPH
+Formula Whitley (#17) going 220MPH
+Formula Palmer (#79) going 220MPH
+Formula Henson (#34) going 220MPH
+How many laps would you like to do?
+Lap 1
+Formula Fletcher (#6) going 226MPH
+Formula Baird (#58) going 226MPH
+Formula Palmer (#79) going 253MPH
+Formula Henson (#34) going 250MPH
+Formula Whitley (#17) going 200MPH
+Lap 2
+Formula Baird (#58) going 221MPH
+Formula Palmer (#79) going 273MPH
+Formula Henson (#34) going 267MPH
+Formula Fletcher (#6) going 216MPH
+Formula Whitley (#17) going 174MPH
+Lap 3
+Formula Palmer (#79) going 245MPH
+Formula Henson (#34) going 275MPH
+Formula Fletcher (#6) going 244MPH
+Formula Baird (#58) going 223MPH
+Formula Whitley (#17) going 149MPH
+Lap 4
+Formula Henson (#34) going 305MPH
+Formula Fletcher (#6) going 253MPH
+Formula Palmer (#79) going 222MPH
+Formula Baird (#58) going 216MPH
+Formula Whitley (#17) going 153MPH
+Lap 5
+Formula Fletcher (#6) going 280MPH
+Formula Henson (#34) going 277MPH
+Formula Palmer (#79) going 224MPH
+Formula Baird (#58) going 218MPH
+Formula Whitley (#17) going 157MPH
+Lap 6
+Formula Fletcher (#6) going 299MPH
+Formula Palmer (#79) going 257MPH
+Formula Henson (#34) going 254MPH
+Formula Baird (#58) going 246MPH
+Formula Whitley (#17) going 169MPH
+Lap 7
+Formula Fletcher (#6) going 322MPH
+Formula Henson (#34) going 279MPH
+Formula Palmer (#79) going 236MPH
+Formula Baird (#58) going 228MPH
+Formula Whitley (#17) going 147MPH
+Lap 8
+Formula Fletcher (#6) going 309MPH
+Formula Henson (#34) going 292MPH
+Formula Palmer (#79) going 243MPH
+Formula Baird (#58) going 218MPH
+Formula Whitley (#17) going 157MPH
+Lap 9
+Formula Fletcher (#6) going 281MPH
+Formula Henson (#34) going 262MPH
+Formula Palmer (#79) going 252MPH
+Formula Baird (#58) going 220MPH
+Formula Whitley (#17) going 139MPH
+Lap 10
+Formula Henson (#34) going 267MPH
+Formula Fletcher (#6) going 247MPH
+Formula Palmer (#79) going 231MPH
+Formula Baird (#58) going 200MPH
+Formula Whitley (#17) going 148MPH
+Lap 11
+Formula Henson (#34) going 253MPH
+Formula Fletcher (#6) going 242MPH
+Formula Palmer (#79) going 235MPH
+Formula Baird (#58) going 176MPH
+Formula Whitley (#17) going 143MPH
+Lap 12
+Formula Henson (#34) going 285MPH
+Formula Fletcher (#6) going 229MPH
+Formula Palmer (#79) going 218MPH
+Formula Baird (#58) going 168MPH
+Formula Whitley (#17) going 141MPH
+Lap 13
+Formula Henson (#34) going 250MPH
+Formula Fletcher (#6) going 242MPH
+Formula Palmer (#79) going 226MPH
+Formula Baird (#58) going 183MPH
+Formula Whitley (#17) going 157MPH
+Lap 14
+Formula Henson (#34) going 275MPH
+Formula Fletcher (#6) going 273MPH
+Formula Palmer (#79) going 216MPH
+Formula Baird (#58) going 155MPH
+Formula Whitley (#17) going 141MPH
+Lap 15
+Formula Henson (#34) going 302MPH
+Formula Fletcher (#6) going 275MPH
+Formula Palmer (#79) going 246MPH
+Formula Baird (#58) going 167MPH
+Formula Whitley (#17) going 124MPH
+Lap 16
+Formula Henson (#34) going 320MPH
+Formula Fletcher (#6) going 272MPH
+Formula Palmer (#79) going 231MPH
+Formula Baird (#58) going 156MPH
+Formula Whitley (#17) going 133MPH
+Lap 17
+Formula Henson (#34) going 288MPH
+Formula Fletcher (#6) going 277MPH
+Formula Palmer (#79) going 214MPH
+Formula Baird (#58) going 151MPH
+Formula Whitley (#17) going 135MPH
+Lap 18
+Formula Fletcher (#6) going 304MPH
+Formula Henson (#34) going 302MPH
+Formula Palmer (#79) going 205MPH
+Formula Baird (#58) going 163MPH
+Formula Whitley (#17) going 129MPH
+Lap 19
+Formula Fletcher (#6) going 346MPH
+Formula Henson (#34) going 335MPH
+Formula Palmer (#79) going 202MPH
+Formula Baird (#58) going 164MPH
+Formula Whitley (#17) going 145MPH
+Lap 20
+Formula Henson (#34) going 361MPH
+Formula Fletcher (#6) going 352MPH
+Formula Palmer (#79) going 226MPH
+Formula Baird (#58) going 168MPH
+Formula Whitley (#17) going 130MPH
+The winner of the race is Formula Henson (#34) going 361MPH
+What type of vehicle would you like to race?
+1. Cars
+2. Trucks
+3. Formula 1
+4. Exit
+Thank you for racing today!

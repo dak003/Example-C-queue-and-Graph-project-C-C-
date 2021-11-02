@@ -1,0 +1,13 @@
+// Output of Graph class when used to store a
+// graph with five vertices and 7 edges
+
+Dump of graph (numVert = 5, numEdge = 7, m_cap = 14)
+m_re: 0 3 6 8 10 14
+m_nz: 15 13 14 15 16 12 16 17 13 11 14 12 17 11
+m_ci: 1 3 4 0 2 4 1 4 0 4 0 1 2 3
+
+The neighbors of vertex 4 are:
+0 1 2 3
+
+The edges in the graph are:
+(0, 1, 15) (0, 3, 13) (0, 4, 14) (1, 2, 16) (1, 4, 12) (2, 4, 17) (3, 4, 11)
